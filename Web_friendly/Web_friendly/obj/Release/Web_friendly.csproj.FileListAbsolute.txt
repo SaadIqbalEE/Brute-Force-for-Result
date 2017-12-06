@@ -1,0 +1,9 @@
+C:\Users\USMAN\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\bin\Release\Web_friendly.exe.config
+C:\Users\USMAN\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\bin\Release\Web_friendly.exe
+C:\Users\USMAN\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\bin\Release\Web_friendly.pdb
+C:\Users\USMAN\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Release\Web_friendly.App_win.resources
+C:\Users\USMAN\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Release\Web_friendly.Properties.Resources.resources
+C:\Users\USMAN\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Release\Web_friendly.csproj.GenerateResource.Cache
+C:\Users\USMAN\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Release\Web_friendly.exe
+C:\Users\USMAN\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Release\Web_friendly.pdb
+D:\Education\SAAD IQBAL\saad\Web_friendly\Web_friendly\bin\Release\Web_friendly.exe.config

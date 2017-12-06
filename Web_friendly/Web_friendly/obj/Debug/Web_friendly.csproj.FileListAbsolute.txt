@@ -1,0 +1,9 @@
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\bin\Debug\Web_friendly.exe.config
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\bin\Debug\Web_friendly.exe
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\bin\Debug\Web_friendly.pdb
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Debug\Web_friendly.csprojResolveAssemblyReference.cache
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Debug\Web_friendly.App_win.resources
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Debug\Web_friendly.Properties.Resources.resources
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Debug\Web_friendly.csproj.GenerateResource.Cache
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Debug\Web_friendly.exe
+c:\users\usman\documents\visual studio 2013\Projects\Web_friendly\Web_friendly\obj\Debug\Web_friendly.pdb
